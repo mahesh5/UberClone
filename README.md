@@ -1,2 +1,2 @@
 # UberClone
-React Native UberClone
+React Native UberClone Typescript
